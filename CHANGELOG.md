@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/shreshth12/martaAlexaApplication/compare/v0.1.0...v0.2.0) (2023-05-29)
+
+
+### Features
+
+* Function added to get station data ([0c58000](https://github.com/shreshth12/martaAlexaApplication/commit/0c5800079f63a9dbd28329874c62ca1e6e6d19e4))
+
 ## 0.1.0 (2023-05-07)
 
 
